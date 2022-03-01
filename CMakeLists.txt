@@ -8,7 +8,6 @@ find_package(catkin_simple REQUIRED)
 catkin_simple()
 
 set(HEADERS
-  include/fast16/corner_10.h
   include/fast16/fast16.h
   include/fast16/faster_corner_utilities.h
 )
