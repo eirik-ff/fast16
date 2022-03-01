@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>fast</name>
+  <name>fast16</name>
   <version>0.0.0</version>
-  <description>The fast package</description>
+  <description>The fast16 package</description>
   <maintainer email="forster@ifi.uzh.ch">cforster</maintainer>
   
   <license>RPG</license>

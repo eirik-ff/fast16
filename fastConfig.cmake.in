@@ -1,17 +1,17 @@
 #######################################################
 # Fast source dir
-set( fast_SOURCE_DIR "@CMAKE_CURRENT_SOURCE_DIR@")
+set( fast16_SOURCE_DIR "@CMAKE_CURRENT_SOURCE_DIR@")
 
 #######################################################
 # Fast build dir
-set( fast_DIR "@CMAKE_CURRENT_BINARY_DIR@")
+set( fast16_DIR "@CMAKE_CURRENT_BINARY_DIR@")
 
 #######################################################
-set( fast_INCLUDE_DIR  "@fast_INCLUDE_DIR@" )
-set( fast_INCLUDE_DIRS "@fast_INCLUDE_DIR@" )
+set( fast16_INCLUDE_DIR  "@fast16_INCLUDE_DIR@" )
+set( fast16_INCLUDE_DIRS "@fast16_INCLUDE_DIR@" )
 
-set( fast_LIBRARIES    "@fast_LIBRARIES@" )
-set( fast_LIBRARY      "@fast_LIBRARIES@" )
+set( fast16_LIBRARIES    "@fast16_LIBRARIES@" )
+set( fast16_LIBRARY      "@fast16_LIBRARIES@" )
 
-set( fast_LIBRARY_DIR  "@fast_LIBRARY_DIR@" )
-set( fast_LIBRARY_DIRS "@fast_LIBRARY_DIR@" )
+set( fast16_LIBRARY_DIR  "@fast16_LIBRARY_DIR@" )
+set( fast16_LIBRARY_DIRS "@fast16_LIBRARY_DIR@" )
